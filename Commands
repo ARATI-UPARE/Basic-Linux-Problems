@@ -1,0 +1,241 @@
+ 1010  git init
+ 1011  git status\
+ 1012  git init
+ 1013  git status
+ 1014  git init
+ 1015  git status
+ 1016  git add . 
+ 1017  git pull origin master
+ 1018  git add .
+ 1019  git status
+ 1020  git commit -m "second task"
+ 1021  git remote add origin https://github.com/pravindeshmukh1/Shell_Script.git
+ 1022  git pull origin master
+ 1023  git remote add server https://github.com/pravindeshmukh1/ShellScript.git
+ 1024  git pull origin master
+ 1025  git remote add server https://github.com/pravindeshmukh1/ShellScript.git
+ 1026  git pull origin master
+ 1027  git init
+ 1028  git status
+ 1029  git add .
+ 1030  git status
+ 1031  git commit -m "second task"
+ 1033  git init
+ 1034  git status
+ 1035  git add .
+ 1036  git status
+ 1037  git init
+ 1038  git status
+ 1039  git add .
+ 1040  git status
+ 1041  git config --global user.name "pravindeshmukh1"
+ 1042  git config --global user.email "pravin1desh@gmail.com"
+ 1043  git status
+ 1044  git add .
+ 1045  git status
+ 1046  git init
+ 1047  git status
+ 1048  git clone https://github.com/pravindeshmukh1/ShellScript.git
+ 1050  gitit
+ 1051  git init
+ 1052  git status
+ 1053  git add .
+ 1054  git statusgit
+ 1055  git commit -m "second commit
+ 1057  git remote add server https://github.com/pravindeshmukh1/ShellScript.git
+ 1059  git init
+ 1060  git status
+ 1061  git add .
+ 1062  git status
+ 1063  git push
+ 1064  git push -u origin master
+ 1065  git clone https://github.com/pravindeshmukh1/ShellScript.git
+ 1066  git status
+ 1078  git init
+ 1079  git status
+ 1080  git add .
+ 1081  git status
+ 1082  git push
+ 1083  git commit -m "second commit"
+ 1084  git push
+ 1085  git init
+ 1086  git status
+ 1087  git add .
+ 1088  git status
+ 1089  git push
+ 1090  git commit -m "second commit"
+ 1091  git push
+ 1092  git status
+ 1094  git reset~1
+ 1096  git reset HEAD~
+ 1097  add git
+ 1099  git status
+ 1104  git init
+ 1105  git status
+ 1106  git log
+ 1107  git reset 4519afd16f8f66ea07d27d111289e5885c09e18a 
+ 1108  git log
+ 1109  git status
+ 1118  git init
+ 1119  git config --global --list
+ 1120  git status
+ 1121  git config --global user.name = "ARATI-UPARE
+ 1122  .git/
+ 1126  git config --global user.name = "ARATI-UPARE"
+ 1127  git config --global user.email = "aratiupare@gmail.com"
+ 1128  git config --list
+ 1129  git config --global --list
+ 1130  git --list -v
+ 1131  git config --global --list
+ 1132  git config --global user.name="ARATI-UPARE"
+ 1133  git config --global user.name = "ARATI-UPARE"
+ 1134  git config --global user.email = "aratiupare@gmail.com"
+ 1135  git config --global --list
+ 1136  git remote add origin https://github.com/ARATI-UPARE/BasicCodes2.git
+ 1137  git remote -v
+ 1138  git pull origin master
+ 1140  git remote -v
+ 1142  git status
+ 1143  git push https://github.com/ARATI-UPARE/BasicCodes.git
+ 1144  git remote -v
+ 1145  git status
+ 1146  git add.
+ 1147  git --help
+ 1148  git push https://github.com/ARATI-UPARE/BasicCodes.git
+ 1149  git remote -v
+ 1150  git remote add origin https://github.com/ARATI-UPARE/BasicProgram.git
+ 1151  git remote -v
+ 1152  git init
+ 1156  git remote add origin https://github.com/ARATI-UPARE/BasicProgram.git
+ 1157  git remote -v
+ 1158  git add .
+ 1159  git commit -m "first commit"
+ 1160  git push origin master
+ 1162  git init
+ 1164  git remote add origin https://github.com/ARATI-UPARE/FellowShip.git
+ 1165  git remote -v
+ 1166  git add .
+ 1167  git commit -m "first commit"
+ 1168  git push origin master
+ 1169  git status
+ 1305  git --version
+ 1341  git clone https://github.com/edurekavivekh/linux-content.git
+ 1535  git init
+ 1536  git add .
+ 1540  cd My github/
+ 1541  cd Mygithub/
+ 1546  git init
+ 1547  git add.
+ 1548  git add .
+ 1549  git status
+ 1550  git commit -m "100 Codes"
+ 1551  git remote add origin https://github.com/ARATI-UPARE/BootCamp.git
+ 1552  git push origin master
+ 1553  git status
+ 1851  git -version
+ 1852  git add .
+ 1853  git init
+ 1854  git add .
+ 1855  git ls
+ 1857  git remote -v
+ 1861  git init
+ 1863  git remote add origin https://github.com/ARATI-UPARE/Session.git
+ 1864  git remote -v
+ 1865  git remote add org https://github.com/ARATI-UPARE/Session.git
+ 1866  git remote -v
+ 1868  git add .
+ 1870  git commit -m "Practice purpose"
+ 1871  git checkout
+ 1872  git add test.txt
+ 1873  git status
+ 1874  git commit -m "Practice purpose"
+ 1875  git add test.txt
+ 1876  git status
+ 1877  git commit -m "Practice purpose 2"
+ 1878  git push org
+ 1879  git status
+ 1880  git username
+ 1881  git config --global user.name "ARATI-UPARE"
+ 1882  git config --global user.name
+ 1883  git config --global user.email
+ 1884  git config --global user.name
+ 1885  git config --global user.name "ARATI-UPARE"
+ 1886  git config --global user.name "ARATI"
+ 1887  git config --global user.name
+ 1888* git config --global user.e
+ 1892  cd .git
+ 1897  git config --global user.name
+ 1898  git config --global user.email "aratiupare@gmail.com"
+ 1899  git config --global --add user.email "aratiupare@gmail.com"
+ 1900  git config --global user.email 
+ 1901  git config --global --add user.name "ARATI-UPARE"
+ 1903  git config --global user.name
+ 1909  git add abc
+ 1910  git commit -m "test"
+ 1911  git push org
+ 1912  git checkout test
+ 1913  git pull org
+ 1914  git pull org test2
+ 1915  git checkout test2
+ 1919  git init
+ 1920  cd .git
+ 1924  git remote origin
+ 1925  git remote -v
+ 1926  git remote set-https://github.com/ARATI-UPARE/Session.git --delete origin https://github.com/ARATI-UPARE/Session.git
+ 1927  git remote -v
+ 1928  git checkout master
+ 1930  git checkout master
+ 1932  git checkout master
+ 1933  git pull
+ 1934  git remote add org https://github.com/ARATI-UPARE/Session.git
+ 1935  git remote org
+ 1936  git remote org master
+ 1938  git pull
+ 1940  git pull org
+ 1941  git pull org/branch2
+ 1942  git pull org/master
+ 1943  git pull org/test2
+ 1944  git branch test
+ 1949  git checkout master
+ 1951  git merge test
+ 1952  git checkout test
+ 1953  git add test.txt
+ 1954  git commit -m "Added"
+ 1955  git checkout master
+ 1956  git status
+ 1957  git merge test
+ 1958  git push -u org master
+ 1959  git status
+ 1960  git merge test
+ 1961  git merge master
+ 1962  git checkout master 
+ 1963  git merge test
+ 1964  git merge master
+ 1967  git push -u org master
+ 1968  git pull 
+ 1969  git pull org
+ 1970  git pull org master
+ 1971  git push -u org master
+ 1976  git pull
+ 1977  git status
+ 1978  git add abc.txt
+ 1979  git add abc
+ 1980  git commit -m " new added"
+ 1981  git pull
+ 1983  git pull org
+ 1984  git push -u org master
+ 1985  git pull
+ 1986  git pull org
+ 1989  git push -u org master
+ 1990  git status
+ 1992  git pull org
+ 1993  git add abc
+ 1994  git commit -m " new new added"
+ 1995  git push -u org master
+ 1996  git pull org
+ 1997  git status
+ 2000  git add abc
+ 2001  git commit -m " new new new added"
+ 2002  git push -u org master
+ 2004  history | grep git
+ 2005  history | grep git | cat >Commands
